@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Igor\\source\\repos\\ProjetoNHibernateApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|c:\\users\\igor\\source\\repos\\projetonhibernateapi\\projetonhibernateapi\\models\\infra\\data\\extensions\\nhibernateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|solutionrelative:projetonhibernateapi\\models\\infra\\data\\extensions\\nhibernateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|c:\\users\\igor\\source\\repos\\projetonhibernateapi\\projetonhibernateapi\\mappings\\cliente.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|solutionrelative:projetonhibernateapi\\mappings\\cliente.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|c:\\users\\igor\\source\\repos\\projetonhibernateapi\\projetonhibernateapi\\models\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|solutionrelative:projetonhibernateapi\\models\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|c:\\users\\igor\\source\\repos\\projetonhibernateapi\\projetonhibernateapi\\models\\infra\\data\\scripts\\scriptcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|solutionrelative:projetonhibernateapi\\models\\infra\\data\\scripts\\scriptcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|c:\\users\\igor\\source\\repos\\projetonhibernateapi\\projetonhibernateapi\\models\\infra\\data\\scripts\\scriptcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{9659CF3A-1517-4869-B08D-AB32A5351F98}|ProjetoNHibernateApi\\ProjetoNHibernateApi.csproj|solutionrelative:projetonhibernateapi\\models\\infra\\data\\scripts\\scriptcliente.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NHibernateExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\ProjetoNHibernateApi\\ProjetoNHibernateApi\\Models\\Infra\\Data\\Extensions\\NHibernateExtensions.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateApi\\Models\\Infra\\Data\\Extensions\\NHibernateExtensions.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\ProjetoNHibernateApi\\ProjetoNHibernateApi\\Models\\Infra\\Data\\Extensions\\NHibernateExtensions.cs",
+              "RelativeToolTip": "ProjetoNHibernateApi\\Models\\Infra\\Data\\Extensions\\NHibernateExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:31:12.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\ProjetoNHibernateApi\\ProjetoNHibernateApi\\Models\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ProjetoNHibernateApi\\Models\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\ProjetoNHibernateApi\\ProjetoNHibernateApi\\Models\\Services\\ClienteService.cs",
+              "RelativeToolTip": "ProjetoNHibernateApi\\Models\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:21:16.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScriptCliente.sql ",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\ProjetoNHibernateApi\\ProjetoNHibernateApi\\Models\\Infra\\Data\\Scripts\\ScriptCliente.sql",
+              "RelativeDocumentMoniker": "ProjetoNHibernateApi\\Models\\Infra\\Data\\Scripts\\ScriptCliente.sql",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\ProjetoNHibernateApi\\ProjetoNHibernateApi\\Models\\Infra\\Data\\Scripts\\ScriptCliente.sql",
+              "RelativeToolTip": "ProjetoNHibernateApi\\Models\\Infra\\Data\\Scripts\\ScriptCliente.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-04T15:30:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.hbm.xml",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\ProjetoNHibernateApi\\ProjetoNHibernateApi\\Mappings\\Cliente.hbm.xml",
+              "RelativeDocumentMoniker": "ProjetoNHibernateApi\\Mappings\\Cliente.hbm.xml",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\ProjetoNHibernateApi\\ProjetoNHibernateApi\\Mappings\\Cliente.hbm.xml",
+              "RelativeToolTip": "ProjetoNHibernateApi\\Mappings\\Cliente.hbm.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-04T15:23:40.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
